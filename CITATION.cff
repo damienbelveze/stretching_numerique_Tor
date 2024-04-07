@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Pour citer le support de cet atelier, copier cette référence"
+authors:
+  - family-names: Belvèze
+    given-names: Damien
+    orcid: https://orcid.org/0000-0001-9020-2148
+title: "Présentation de Tor lors de l'édition 2024 du Stretching Numérique"
+version: 2.0.4
+identifiers:
+  - type: url
+    value: https://github.com/damienbelveze/stretching_numerique_Tor/tree/main
+date-released: 2024-04-07
